@@ -5,7 +5,7 @@ Sovol SV08 modification to use up to 6 print heads using TapChanger &amp; Dragon
 2. To connect BTT HDMI5 screen I've used original USB cable, but I've connected through [small USB hub](https://www.amazon.de/dp/B0BMXDGSGS) to one of USB type A connectors on the main board. HDMI connector on the main board is only one and it is accessible only from outside. So I've found 180° HDMI adapter (https://www.amazon.de/dp/B0C9DV6ZS) and flat HDMI cable with 90° connector. To use 180° HDMI adapter I needed to make some small cut in the SV08 enclosure (image)
 3. For the future use of up to 6 print heads the original PSU 24V 150W is not enough. I've buyed a cheaper Meanwell RSP-500-24 and made custom holders for [DIN rails](https://www.amazon.de/dp/B09VQ6KJ6H). You need about 266 mm [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/psu-mount)
 
-   [<img src="/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%201.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%201.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount)
 
    ![Suitable place](https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%201.jpg?raw=true = 250x)
    ![DIN rail holder](https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%202.jpg?raw=true)
