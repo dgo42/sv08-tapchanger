@@ -42,8 +42,8 @@ Sovol SV08 modification to use up to 6 print heads using TapChanger &amp; Dragon
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/cable-chain/cable-chain%203.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/cable-chain/cable-chain%203.jpg?raw=true)
 7. To use as much as possible movement distance behind the bed for using nudge sensor and nozzle wiper I've used Tapchanger [Shuttle](https://github.com/viesturz/tapchanger/blob/main/Tapchanger/STL/Shuttle/Shuttle.stl) without keeper to save additional 6mm. But usual MGN12H wagon has a 0.4 mm deeping which prevents efficient snuggle the belt between the wagon and the shuttle. I've developed MGN12H adapter, which adds only 0.4 mm additional space, but fills small deeping. It is printed with first layer height 0.2 mm and further layer 0.1 mm height, but it is also suitable to print all with 0.2 mm layer.  
 
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/tapchanger/MGN12H-deeping.png?raw=true" width="400">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/tapchanger/MGN12H-deeping.png?raw=true)
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/tapchanger/cable-chain%201.jpg?raw=true" width="400">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/tapchanger/cable-chain%201.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/tapchanger/MGN12H-deeping.png?raw=true" width="390">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/tapchanger/MGN12H-deeping.png?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/tapchanger/MGN12H-riemen-adapter.png?raw=true" width="390">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/tapchanger/MGN12H-riemen-adapter.png?raw=true)
 
    Here you can see CAD reconstruction oh the problem. This is without adapter:
 
