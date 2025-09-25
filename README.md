@@ -21,11 +21,11 @@ Sovol SV08 modification to use up to 6 print heads using TapChanger &amp; Dragon
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%206.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%206.jpg?raw=true)
 4. To organize the cables underneath I've used the voron deck support as a [cable organiser](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/panels/cable-organiser_x4.stl)
 
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/panels/cable-organiser.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/panels/cable-organiser.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/panels/cable-organiser.jpg?raw=true" width="600">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/panels/cable-organiser.jpg?raw=true)
    
    To ptotect cables underneath aluminium cover I've created this two printed parts [STLs](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/cable-protection) :
 
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/panels/cable-protection.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/panels/cable-protection.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/cable-protection/cable-protection.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/cable-protection/cable-protection.jpg?raw=true)
 5. For different tasks Z-endstop, Z-calibration and XYZ multi printhead calibration I've used the Nudge sensor with 3 mm rod 55 mm long because prinhead has small moving distance behind the bed.
    * To mount the Nudge sensor and custom nozzle wiper I've made special jig to bore the mounting and Nudge rod holes [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/nudge/boring-jig.STL)
  
