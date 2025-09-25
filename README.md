@@ -22,10 +22,22 @@ Sovol SV08 modification to use up to 6 print heads using TapChanger &amp; Dragon
 4. To organize the cables underneath I've used the voron deck support as a [cable organiser](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/panels/cable-organiser_x4.stl)
 
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/panels/cable-organiser.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/panels/cable-organiser.jpg?raw=true)
-5. For different tasks Z-endstop, Z-calibration and XYZ multi printhead calibration I've used the Nudge sensor with 3mm rod because prinhead has small moving distance behind the bed.
-   * To mount the Nudge sensor and custom nozzle wiper I've made special jig to bore the mounting and Nudge rod holes (image, STL)
-   * I've used modified Nudge sensor body to mount it to the top surface I've added 1mm so that JST XH connector is not outradged (image, STL)
-   * Nudge sensor mounted using two 25mm DIN 912 bolts, two 10mm DIN 912 bolds holds other two corners of the nozzle wipper holder. (image)
+5. For different tasks Z-endstop, Z-calibration and XYZ multi printhead calibration I've used the Nudge sensor with 3 mm rod 55 mm long because prinhead has small moving distance behind the bed.
+   * To mount the Nudge sensor and custom nozzle wiper I've made special jig to bore the mounting and Nudge rod holes [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/nudge/boring-jig.STL)
+ 
+      [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/nudge/sensor-hole-boring-jig.jpg?raw=true" width="300">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/nudge/sensor-hole-boring-jig.jpg?raw=true)
+   * I've used modified Nudge sensor body to mount it to the top surface I've added 1mm so that JST XH connector is not outradged [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/nudge/nudge/nudge_2020_sovol.STL)
+ 
+      [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/nudge/modified-nudge-body.png?raw=true" width="300">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/nudge/modified-nudge-body.png?raw=true)
+   * Nudge sensor mounted using two washers and 30mm iso 7380-1 screws, two 10mm DIN 912 screws holds other two corners of the nozzle wipper holder.
+ 
+      [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/nudge/nudge%201.jpg?raw=true" width="300">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/nudge/nudge%201.jpg?raw=true)
    * Bambulab A1 silicone nozzle wiper (for example https://www.amazon.de/dp/B0DZWXR1WL)
-6. To use Tapchanger (https://github.com/viesturz/tapchanger) I've disassebled cable harness from X-, Y- motor, camera and print head cables. To organize this cables I've used 27 chain links 10x15 cable chain (https://www.amazon.de/dp/B0991GWQ6P) and connectors (https://makerworld.com/en/models/831830-sovol-sv08-chain-set-v2) (image, STL)
+ 
+      [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/nudge/nudge%203.jpg?raw=true" width="300">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/nudge/nudge%203.jpg?raw=true)
+6. To use [Tapchanger](https://github.com/viesturz/tapchanger) I've disassembled cable harness from X-, Y- motor, camera and print head cables. To organize this cables I've used 27 chain links [10x15 cable chain](https://www.amazon.de/dp/B0991GWQ6P) and [connectors](https://makerworld.com/en/models/831830-sovol-sv08-chain-set-v2)
+
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/cable-chain/cable-chain%201.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/cable-chain/cable-chain%201.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/cable-chain/cable-chain%202.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/cable-chain/cable-chain%202.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/cable-chain/cable-chain%203.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/cable-chain/cable-chain%203.jpg?raw=true)
 7. 
