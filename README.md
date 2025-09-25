@@ -13,15 +13,19 @@ Sovol SV08 modification to use up to 6 print heads using TapChanger &amp; Dragon
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/HDMI/HDMI-adapter%203.jpg?raw=true" width="200">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/HDMI/HDMI-adapter%203.jpg?raw=true)
 3. For the future use of up to 6 print heads the original PSU 24V 150W is not enough. I've buyed a cheaper Meanwell RSP-500-24 and made custom holders for [DIN rails](https://www.amazon.de/dp/B09VQ6KJ6H). You need about 266 mm DIN rail and following printed parts [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/psu-mount)
 
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%201.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%201.jpg?raw=true)
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%202.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%202.jpg?raw=true)
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%203.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%203.jpg?raw=true)
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%204.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%204.jpg?raw=true)
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%205.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%205.jpg?raw=true)
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%206.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%206.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%201.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%201.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%202.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%202.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%203.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%203.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%204.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%204.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%205.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%205.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%206.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%206.jpg?raw=true)
 4. To organize the cables underneath I've used the voron deck support as a [cable organiser](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/panels/cable-organiser_x4.stl)
 
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/panels/cable-organiser.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/panels/cable-organiser.jpg?raw=true)
+   
+   To ptotect cables underneath aluminium cover I've created this two printed parts [STLs](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/cable-protection) :
+
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/panels/cable-protection.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/panels/cable-protection.jpg?raw=true)
 5. For different tasks Z-endstop, Z-calibration and XYZ multi printhead calibration I've used the Nudge sensor with 3 mm rod 55 mm long because prinhead has small moving distance behind the bed.
    * To mount the Nudge sensor and custom nozzle wiper I've made special jig to bore the mounting and Nudge rod holes [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/nudge/boring-jig.STL)
  
@@ -63,7 +67,7 @@ Sovol SV08 modification to use up to 6 print heads using TapChanger &amp; Dragon
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/tapchanger/nozzle-camera%202.jpg?raw=true" width="390">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/tapchanger/nozzle-camera%202.jpg?raw=true)
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/tapchanger/nozzle-camera%203.jpg?raw=true" width="390">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/tapchanger/nozzle-camera%203.jpg?raw=true)
 
-   I've mounted other side of the camera cable using cable chain connector instead of print head cable. Print head cable will be organised using umbilical mount in the "hat". To prevent the cable from falling and to keep it in the shape of an arch I use suggested for tapchanger watch mainspring with section about 1mm<sup>2</sup> such as 0.3x3mm [Flat Spiral Coil](https://www.aliexpress.com/item/1005006731615186.html) tied with the cable using cable ties:
+   I've mounted other side of the camera cable using cable chain connector instead of print head cable. You need approximately 45-50cm of "free" cable between both holders for free head movement. You can measure how much cable do you need moving the head into front left corner - the farthest point. Print heads cables will be organised using umbilical mount in the "hat". To prevent the cable from falling and to keep it in the shape of an arch I use suggested for tapchanger watch mainspring with section about 1mm<sup>2</sup> such as 0.3x3mm [Flat Spiral Coil](https://www.aliexpress.com/item/1005006731615186.html) tied with the cable using cable ties:
 
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/tapchanger/nozzle-camera%204.jpg?raw=true" width="600">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/tapchanger/nozzle-camera%204.jpg?raw=true)
 9. 
