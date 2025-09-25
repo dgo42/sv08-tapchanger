@@ -107,3 +107,6 @@ Sovol SV08 modification to use up to 6 print heads using TapChanger &amp; Dragon
       2. [klipper_z_calibration](https://github.com/dgo42/klipper_z_calibration) from my fork. I've changed lower threshold for `switch_offset` config parameter to allow negative values down to -5.
 
    My current Klipper configuration you can found under [Config](https://github.com/dgo42/sv08-tapchanger/tree/main/klipper/config/)
+
+12. Almost all parts are printed suing standard Voron slicer settings using **extrudr DuraPro ABS** filament. Only tapchanger shuttle and camera cable holder are printed from **extrudr DuraPro PC/PBT CF**. My DragonBurner addons I'll publish later in separate repo.
+13. TODO: exact BOM, however almost all bought parts are referenced in this manuell except of fasteners.
