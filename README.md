@@ -8,8 +8,8 @@ Sovol SV08 modification to use up to 6 print heads using TapChanger &amp; Dragon
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/display/Display%20stoper.png?raw=true" width="300">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/display/Display%20stoper.png?raw=true)
 2. To connect BTT HDMI5 screen I've used original USB cable, but I've connected through [small USB hub](https://www.amazon.de/dp/B0BMXDGSGS) to one of USB type A connectors on the main board. HDMI connector on the main board is only one and it is accessible only from outside. So I've found [180° HDMI adapter](https://www.amazon.de/dp/B0C9DV6ZS) and [flat HDMI cable with 90° connector](https://www.amazon.de/dp/B07R4CPX7V). To use 180° HDMI adapter I needed to make some small cut in the SV08 enclosure.
 
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/HDMI/HDMI-adapter%201.jpg?raw=true" width="200">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/HDMI/HDMI-adapter%201.jpg?raw=true)
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/HDMI/HDMI-adapter%202.jpg?raw=true" width="200">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/HDMI/HDMI-adapter%202.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/HDMI/HDMI-adapter%201.jpg?raw=true" width="280">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/HDMI/HDMI-adapter%201.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/HDMI/HDMI-adapter%202.jpg?raw=true" width="280">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/HDMI/HDMI-adapter%202.jpg?raw=true)
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/HDMI/HDMI-adapter%203.jpg?raw=true" width="200">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/HDMI/HDMI-adapter%203.jpg?raw=true)
 3. For the future use of up to 6 print heads the original PSU 24V 150W is not enough. I've buyed a cheaper Meanwell RSP-500-24 and made custom holders for [DIN rails](https://www.amazon.de/dp/B09VQ6KJ6H). You need about 266 mm DIN rail and following printed parts [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/psu-mount)
 
@@ -25,7 +25,7 @@ Sovol SV08 modification to use up to 6 print heads using TapChanger &amp; Dragon
    
    To ptotect cables underneath aluminium cover I've created this two printed parts [STLs](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/cable-protection) :
 
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/cable-protection/cable-protection.jpg?raw=true" width="100">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/cable-protection/cable-protection.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/cable-protection/cable-protection.jpg?raw=true" width="600">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/cable-protection/cable-protection.jpg?raw=true)
 5. For different tasks Z-endstop, Z-calibration and XYZ multi printhead calibration I've used the Nudge sensor with 3 mm rod 55 mm long because prinhead has small moving distance behind the bed.
    * To mount the Nudge sensor and custom nozzle wiper I've made special jig to bore the mounting and Nudge rod holes [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/nudge/boring-jig.STL)
  
@@ -56,7 +56,7 @@ Sovol SV08 modification to use up to 6 print heads using TapChanger &amp; Dragon
    And here with adapter:
 
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/tapchanger/Tapchanger-shuttle-GT2-MGN12H-deeping-adapter.png?raw=true" width="700">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/tapchanger/Tapchanger-shuttle-GT2-MGN12H-deeping-adapter.png?raw=true)
-8. I was inspired by the videos from [chilicoke](https://www.youtube.com/@chilicoke) channel [3D Printer Nozzle Cam V2](https://www.youtube.com/watch?v=DgfCFKKtKLw) and modified my Voron 2.4 to use nozzle camera. I've found very good [5MP endoscope camera](https://www.aliexpress.com/item/1005007714189699.html) with auto-focus. It allows to focus from about 18 mm distance. I use variant with 2m with soft cable. But I'll use tapchanger, and therefore I've modified shuttle to use this camera [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/tapchanger/TapChanger-Rods-12-round-sovol.STL). Modified shuttle has also mount-point for camera cable holder [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/tapchanger/camera-cable-toolchanger-holder) and stopper which reduces shuttle movement on the X-axe, to avoid camera tail to crash into gantry plastic parts. But the stopper allows to use entire bed - movement on the X/axe is about 358 mm. To avoid camera tail crash into X/Y motor as X-axe is on the maximal Y coordinate I've used side cuter to gently cut groove in the camera enclosure tail to route cable to the side. On the following photos you can see how to modify camera enclosure and route the camera cable:
+8. I was inspired by the videos from [chilicoke](https://www.youtube.com/@chilicoke) channel [3D Printer Nozzle Cam V2](https://www.youtube.com/watch?v=DgfCFKKtKLw) and modified my Voron 2.4 to use nozzle camera. I've found very good [5MP endoscope camera](https://www.aliexpress.com/item/1005007714189699.html) with auto-focus. It allows to focus from about 18 mm distance. I use variant with 2m with soft cable. But I'll use tapchanger, and therefore I've modified shuttle to use this camera [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/tapchanger/TapChanger-Rods-12-round-sovol.STL). Modified shuttle has also mount-point for camera cable holder [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/tapchanger/camera-cable-toolchanger-holder.STL) and stopper which reduces shuttle movement on the X-axe, to avoid camera tail to crash into gantry plastic parts. But the stopper allows to use entire bed - movement on the X/axe is about 358 mm. To avoid camera tail crash into X/Y motor as X-axe is on the maximal Y coordinate I've used side cuter to gently cut groove in the camera enclosure tail to route cable to the side. On the following photos you can see how to modify camera enclosure and route the camera cable:
 
    Camera enclosure should have cut out so, that cable may be bent and not protrude beyond the edge of the camera enclosure:
 
@@ -70,4 +70,40 @@ Sovol SV08 modification to use up to 6 print heads using TapChanger &amp; Dragon
    I've mounted other side of the camera cable using cable chain connector instead of print head cable. You need approximately 45-50cm of "free" cable between both holders for free head movement. You can measure how much cable do you need moving the head into front left corner - the farthest point. Print heads cables will be organised using umbilical mount in the "hat". To prevent the cable from falling and to keep it in the shape of an arch I use suggested for tapchanger watch mainspring with section about 1mm<sup>2</sup> such as 0.3x3mm [Flat Spiral Coil](https://www.aliexpress.com/item/1005006731615186.html) tied with the cable using cable ties:
 
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/tapchanger/nozzle-camera%204.jpg?raw=true" width="600">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/tapchanger/nozzle-camera%204.jpg?raw=true)
-9. 
+
+   Here is some sneak preview from nozzle camera from my Voron 2.4, it is 100% zoom:
+
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/camera/Voron-2.4-nozzle-cam-view.png?raw=true" width="796">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/camera/Voron-2.4-nozzle-cam-view.png?raw=true)
+
+   ...and from Sovol SV08:
+
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/camera/Sovol-SV08-nozzle-cam-view.png?raw=true" width="796">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/camera/Sovol-SV08-nozzle-cam-view.png?raw=true)
+
+   Camera should be positioned horizontally using for example bed edge and fixed using superglue.
+   
+   To configure camera focus you can place under nozzle some object with small text and using following command select optimal focus setting. First you should find which camera corresponds to which linux device listing cameras by ID:
+   
+   `ls -la /dev/v4l/by-id/`
+      
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/camera/camera-list.png?raw=true" width="796">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/camera/camera-list.png?raw=true)
+      
+   `v4l2-ctl -d /dev/video0 -c focus_automatic_continuous=0,focus_absolute=700`
+
+   After you've found a focus value, you can put it in crowsnest.cfg file adding `v4l2ctl: focus_automatic_continuous=0,focus_absolute=770` to corresponding camera section:
+   
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/camera/crowsnest-cfg.png?raw=true" width="796">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/camera/crowsnest-cfg.png?raw=true)
+     
+9. Last but not least to hold docking places for print heads I've found excellent solution [Sovol SV08 Tool Changer Extrusion Adapters](https://www.printables.com/model/902562-sovol-sv08-tool-changer-extrusion-adapters). But standard [Dock](https://github.com/viesturz/tapchanger/blob/main/Dock/Top/DragonBurner.stl) doesn't fit on the aluminium profile and more important the print head cant reach the dock position on the Y-axe. Therefore I've rebuilt the dock mount to fit both requirements [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/dock/DragonBurnerSovol.STL)
+
+      [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/dock/dock%201.jpg?raw=true" width="796">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/dock/dock%201.jpg?raw=true)
+      [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/dock/dock%202.jpg?raw=true" width="796">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/dock/dock%202.jpg?raw=true)
+
+10. First I've used excellent guide from [Richard Rappetor](https://github.com/Rappetor) to update Sovol Klipper installation to the [mainline Klipper](https://github.com/Rappetor/Sovol-SV08-Mainline/tree/main). But due too removing original load cell Z-endstop sensor I don't use two of Sovol Python files (`probe_pressure.py`, `z_offset_calibration.py`)
+   
+   I very appreciate script to automatically update Klipper in hardware CPUs - I've copied it on my other Klipper printers.
+
+11. In Klipper I use following addons (installation instruction are mostly to found in corresponding GitHub repos):
+      1. [klipper-toolchanger](https://github.com/viesturz/klipper-toolchanger)
+      2. [klipper_z_calibration](https://github.com/dgo42/klipper_z_calibration) from my fork. I've changed lower threshold for `switch_offset` config parameter to allow negative values down to -5.
+
+   My current Klipper configuration you can found under [Config](https://github.com/dgo42/sv08-tapchanger/tree/main/klipper/config/)
