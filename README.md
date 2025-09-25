@@ -13,10 +13,10 @@ Sovol SV08 modification to use up to 6 print heads using TapChanger &amp; Dragon
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/HDMI/HDMI-adapter%203.jpg?raw=true" width="200">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/HDMI/HDMI-adapter%203.jpg?raw=true)
 3. For the future use of up to 6 print heads the original PSU 24V 150W is not enough. I've buyed a cheaper Meanwell RSP-500-24 and made custom holders for [DIN rails](https://www.amazon.de/dp/B09VQ6KJ6H). You need about 266 mm DIN rail and following printed parts [STL](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/psu-mount)
 
-   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%201.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%201.jpg?raw=true)
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%202.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%202.jpg?raw=true)
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%203.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%203.jpg?raw=true)
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%204.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%204.jpg?raw=true)
+   [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%201.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%201.jpg?raw=true)
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%205.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%205.jpg?raw=true)
    [<img src="https://github.com/dgo42/sv08-tapchanger/blob/main/photos/psu-mount/psu-mount%206.jpg?raw=true" width="260">](https://github.com/dgo42/sv08-tapchanger/tree/main/photos/psu-mount/psu-mount%206.jpg?raw=true)
 4. To organize the cables underneath I've used the voron deck support as a [cable organiser](https://github.com/dgo42/sv08-tapchanger/tree/main/stls/panels/cable-organiser_x4.stl)
